@@ -10,13 +10,7 @@
 
 const letter = ['a', 'b', 'c', 'd', 'a', 'b'];
 let count = {}
-letter.forEach((item,index,arr) => {
-    if (count[item]) {
-        count[item]++;
-        console.log(index,arr)
-    } else {
-        count[item] = 1;
-        console.log('else')
-    }
+letter.forEach((item, index, arr) => {
+    console.log(count[item] ? count[item]++ : count[item] = 1)
 })
 console.log(count)
