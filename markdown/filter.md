@@ -1,15 +1,16 @@
 ```javascript
 const numbers = [1,2,3,4,5];
-    numbers.forEach((item,index,arr)=> console.log(item,index,arr));
+    const greaterThen3 = numbers.filter((value,index,arr)=>{
+        return value > 3;
+    });
+    console.log(greaterThen3);
 ```
-### It is a callback function and it is have 3 parameters. The item will be shown the elements of the array (1,2,3,4,5) and the index will be shown the index of the array (0,1,2,3,4) and the last one parameter will be shown the whole array with the iterator we have 5 elements then the array will be shown five times the array.
+## The filter method give us the functionality to filter the data of an array this method take the conditions to filter the data and showing us the final result.
+
+### It is a callback function and it is have 3 parameters. The item or value will be shown the elements of the array (1,2,3,4,5) and the index will be shown the index of the array (0,1,2,3,4) and the last one parameter will be shown the whole array with the iterator we have 5 elements then the array will be shown five times the array.
 
 ```output
 //output
-1 0 [ 1, 2, 3, 4, 5 ]
-2 1 [ 1, 2, 3, 4, 5 ]
-3 2 [ 1, 2, 3, 4, 5 ]
-4 3 [ 1, 2, 3, 4, 5 ]
-5 4 [ 1, 2, 3, 4, 5 ]
+[4,5]
 ```
 ##### [Click And See Code Of JavaScript](../js/filter.js)
