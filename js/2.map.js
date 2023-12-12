@@ -1,33 +1,33 @@
-const numbers1 = [1, 2, 3, 4, 5];
-numbers1.map((val, ind, arr) => {
-    return val*2
-})
-console.log(numbers1)
+// const numbers1 = [1, 2, 3, 4, 5];
+// numbers1.map((val, ind, arr) => {
+//     return val*2
+// });
+// console.log(numbers1);
 
 
-const numbers2 = [1, 2, 3, 4, 5];
+// const numbers2 = [1, 2, 3, 4, 5];
 
-numbers2.map((val, ind, arr) => {
-    return val*2
-})
-console.log(numbers2)
-
-
-
-const numbers3 = [1, 2, 3, 4, 5];
-
-let a = numbers3.map((val, ind, arr) => {
-    return val*2
-})
-console.log(a)
+// numbers2.map((val, ind, arr) => {
+//     return val*2
+// })
+// console.log(numbers2)
 
 
-const numbers4 = [1, 2, 3, 4, 5];
 
-numbers4.map((val, ind, arr) => {
-    console.log(val*2)
-    // return val*10
-})
+// const numbers3 = [1, 2, 3, 4, 5];
+
+// let a = numbers3.map((val, ind, arr) => {
+//     return val*2
+// })
+// console.log(a)
+
+
+// const numbers4 = [1, 2, 3, 4, 5];
+
+// numbers4.map((val, ind, arr) => {
+//     console.log(val*2)
+//     // return val*10
+// })
 // console.log(numbers4)
 
 
@@ -52,3 +52,8 @@ numbers4.map((val, ind, arr) => {
 // }));
 // console.log(totalProductValue)
 
+
+let arr = [2,3,5,5];
+arr.map((value,index,arr)=>{
+    console.log(arr);
+});
