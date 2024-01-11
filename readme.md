@@ -91,4 +91,6 @@ const fruits = ['apple', 'banana', 'orange', 'grape'];
 #### [1.For Each Method](./markdown/1.foreach.md)
 #### [2.Map Method](./markdown/2.map.md)
 #### [3.Filter Method](./markdown/3.filter.md)
-#### [4.Reduce Method](./markdown/4.reduce.md.md)
+#### [4.Reduce Method](./markdown/4.reduce.md)
+#### [5.Slice Method](./markdown/5.slice.md)
+

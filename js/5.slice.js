@@ -1,4 +1,3 @@
-// const numbers = [1,2,3,4,5];
-// const numbers2 = numbers.slice(0,2);
-// console.log(numbers);
-// console.log(numbers2);
+const students = ['std1', 'std2', 'std3', 'std4', 'std5', 'std6'];
+const afterSlice = students.slice(0, 2);
+console.log(afterSlice);
