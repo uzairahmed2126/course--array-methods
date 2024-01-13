@@ -81,9 +81,6 @@ const newColors = colors.reverse(); // ['purple', undefined, undefined, 'blue', 
 ```javascript
 const fruits = ['apple', 'banana', 'orange', 'grape'];
 //In this example:
-
-//const declares a constant variable.
-//fruits is the variable name assigned to the array.
 //['apple', 'banana', 'orange', 'grape'] is the array literal, specifying the elements of the array.
 ```
 # Hey i wrote down the explanation of the Array Methods read and enjoy it..
@@ -94,4 +91,5 @@ const fruits = ['apple', 'banana', 'orange', 'grape'];
 #### [4.Reduce Method](./markdown/4.reduce.md)
 #### [5.Slice Method](./markdown/5.slice.md)
 #### [6.Splice Method](./markdown/6.splice.md)
+#### [6.Sort Method](./markdown/7.sort.md)
 
