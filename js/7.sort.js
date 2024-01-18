@@ -28,6 +28,7 @@
     }*/
 
 // const a = [22345, 2435, 14, 14, 1, 0];
+// mannual method to sort array.
 const a = ['d', 'c', 'b', 'a'];
 for (let i = 0; i < a.length; i++) {
     for (let j = 0; j < a.length - i; j++) {
@@ -39,4 +40,4 @@ for (let i = 0; i < a.length; i++) {
         };
     };
 };
-console.log(a);
+console.log(a)
