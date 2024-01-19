@@ -95,3 +95,4 @@ const fruits = ['apple', 'banana', 'orange', 'grape'];
 #### [8.Concat Method](./markdown/8.concat.md)
 #### [9.Fill Method](./markdown/9.fill.md)
 #### [10.includes Method](./markdown/10.includes.md)
+#### [11.includes Method](./markdown/11.join.md)
