@@ -94,3 +94,4 @@ const fruits = ['apple', 'banana', 'orange', 'grape'];
 #### [7.Sort Method](./markdown/7.sort.md)
 #### [8.Concat Method](./markdown/8.concat.md)
 #### [9.Fill Method](./markdown/9.fill.md)
+#### [10.includes Method](./markdown/10.includes.md)
