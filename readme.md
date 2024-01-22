@@ -103,3 +103,8 @@ const fruits = ['apple', 'banana', 'orange', 'grape'];
 #### [16.Shift Method](./markdown/16.shift.md)
 #### [17.IndexOf Method](./markdown/17.indexOf.md)
 #### [18.Every Method](./markdown/18.every.md)
+#### [19.Some Method](./markdown/19.some.md)
+#### [20.Find Method](./markdown/20.find.md)
+#### [21.FindIndex Method](./markdown/21.findIndex.md)
+
+
