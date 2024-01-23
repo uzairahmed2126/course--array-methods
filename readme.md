@@ -106,5 +106,8 @@ const fruits = ['apple', 'banana', 'orange', 'grape'];
 #### [19.Some Method](./markdown/19.some.md)
 #### [20.Find Method](./markdown/20.find.md)
 #### [21.FindIndex Method](./markdown/21.findIndex.md)
+#### [22.From Method](./markdown/22.from.md)
+#### [23.isArray Method](./markdown/23.isArray.md)
+#### [24.Flat Method](./markdown/24.flat.md)
 
 
