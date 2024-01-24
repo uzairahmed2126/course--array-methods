@@ -45,3 +45,13 @@ const greaterThen3 = obj.filter((value, index, arr) => {
     return value.age > 20;
 });
 console.log(greaterThen3);
+
+
+const array = [1, 2, 3, 4, 5];
+const evenVal = [];
+for (let i = 0; i < array.length; i++) {
+    if (array[i] % 2 === 0) {
+        evenVal.push(array[i]);
+    }
+}
+console.log(evenVal)

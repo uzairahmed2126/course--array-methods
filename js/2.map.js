@@ -53,7 +53,15 @@
 // console.log(totalProductValue)
 
 
-let arr = [2,3,5,5];
-arr.map((value,index,arr)=>{
-    console.log(arr);
+let arr = [2, 3, 5, 5];
+arr.map((value, index, arr) => {
+    // console.log(arr);
 });
+
+const array = [1, 2, 3, 4, 5];
+const result = [];
+for (let i = 0; i < array.length; i++) {
+    let multiply=array[i]*2;
+    result.push(multiply);
+}
+console.log(result);
