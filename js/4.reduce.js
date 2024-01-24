@@ -48,3 +48,10 @@ const totalValueStore = store.reduce(
 // console.log([].reduce(getMax, 1)); // 1
 
 // [].reduce(getMax,1); // TypeError
+
+const arr = [1, 2, 3, 4, 5];
+let a = arr.reduce(callbackFn);
+function callbackFn(accumulater, currentVal, index, array) {
+    return accumulater - currentVal;
+}
+console.log(a);
