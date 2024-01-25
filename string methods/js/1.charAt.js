@@ -17,3 +17,11 @@ console.log(a >> b); //  00000000000000000000000000000001
 const str = 'asdf';
 let findIndex = str.charAt(2);
 console.log(findIndex); //d
+
+const alphabets = 'abcdefghijklmnopqrstuvwxyz';
+let result;
+result = alphabets.charAt(3);
+console.log(result);
+
+
+

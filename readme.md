@@ -109,5 +109,6 @@ const fruits = ['apple', 'banana', 'orange', 'grape'];
 #### [22.From Method](./markdown/22.from.md)
 #### [23.isArray Method](./markdown/23.isArray.md)
 #### [24.Flat Method](./markdown/24.flat.md)
-
+# String Methods
+#### [24.Flat Method](./string%20methods/markdown/1.charAt.md)
 
