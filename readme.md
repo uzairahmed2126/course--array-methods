@@ -113,6 +113,8 @@ const fruits = ['apple', 'banana', 'orange', 'grape'];
 #### [24.Flat Method](./string%20methods/markdown/1.charAt.md)
 #### [25.LastIndexOf Method](./string%20methods/markdown/2.lastIndexOf.md)
 #### [26.Slice Method](./string%20methods/markdown/3.slice.md)
+#### [27.SubString Method](./string%20methods/markdown/4.subString.md)
+
 
 
 
