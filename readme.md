@@ -119,6 +119,11 @@ const fruits = ['apple', 'banana', 'orange', 'grape'];
 #### [7.EndsWith Method](./string%20methods/markdown/7.endsWith.md)
 #### [8.Concat Method](./string%20methods/markdown/8.concat.md)
 #### [9.repeat Method](./string%20methods/markdown/9.repeat.md)
+#### [10.Trim Method](./string%20methods/markdown/10.trim.md)
+#### [11.TrimStart Method](./string%20methods/markdown/11.trimStart.md)
+#### [12.TrimEnd Method](./string%20methods/markdown/12.trimEnd.md)
+
+
 
 
 
