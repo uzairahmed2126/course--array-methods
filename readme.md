@@ -123,5 +123,6 @@ const fruits = ['apple', 'banana', 'orange', 'grape'];
 #### [11.TrimStart Method](./string%20methods/markdown/11.trimStart.md)
 #### [12.TrimEnd Method](./string%20methods/markdown/12.trimEnd.md)
 #### [13.PadStart Method](./string%20methods/markdown/13.padStart.md)
+#### [14.PadEnd Method](./string%20methods/markdown/14.padEnd.md)
 
 
