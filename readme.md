@@ -126,3 +126,6 @@ const fruits = ['apple', 'banana', 'orange', 'grape'];
 #### [14.PadEnd Method](./string%20methods/markdown/14.padEnd.md)
 #### [15.LocaleCompare Method](./string%20methods/markdown/15.localeCompare.md)
 #### [16.Search Method](./string%20methods/markdown/16.search.md)
+#### [17.Match Method](./string%20methods/markdown/17.match.md)
+#### [18.Match Method](./string%20methods/markdown/18.matchAll.md)
+
