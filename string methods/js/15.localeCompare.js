@@ -1,5 +1,6 @@
-console.log(['Z', 'a', 'z', 'ä'].sort(new Intl.Collator('sv').compare));
-console.log(['Z', 'a', 'z', 'ä'].sort(new Intl.Collator('sv').compare));
+console.log(['Z', 'a', 'z', 'ä'].sort(new Intl.Collator('de').compare));//[ 'a', 'ä', 'z', 'Z' ]
+console.log(['Z', 'a', 'z', 'ä'].sort(new Intl.Collator('en').compare));//[ 'a', 'ä', 'z', 'Z' ]
+console.log(['Z', 'a', 'z', 'ä'].sort(new Intl.Collator('sv').compare));//[ 'a', 'z', 'Z', 'ä' ]
 const a = 'réservé'; // With accents, lowercase
 const b = 'RESERVE'; // No accents, uppercase
 console.log(a.localeCompare(b));
