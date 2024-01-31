@@ -128,4 +128,4 @@ const fruits = ['apple', 'banana', 'orange', 'grape'];
 #### [16.Search Method](./string%20methods/markdown/16.search.md)
 #### [17.Match Method](./string%20methods/markdown/17.match.md)
 #### [18.Match Method](./string%20methods/markdown/18.matchAll.md)
-
+#### [19.Match Method](./string%20methods/markdown/19.replace.md)
