@@ -134,5 +134,4 @@ const fruits = ['apple', 'banana', 'orange', 'grape'];
 #### [22.CharCodePoint Method](./string%20methods/markdown/22.codePointAt.md)
 #### [23.At Method](./string%20methods/markdown/23.at.md)
 #### [24.At Method](./string%20methods/markdown/24.fromCharCode.md)
-
-
+#### [25.At Method](./string%20methods/markdown/25.fromCodePoint.md)
