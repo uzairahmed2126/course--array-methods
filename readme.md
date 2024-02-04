@@ -139,3 +139,5 @@ const fruits = ['apple', 'banana', 'orange', 'grape'];
 #### [27.Normalize Method](./string%20methods/markdown/27.normalize.md)
 #### [28.ToLowerCase Method](./string%20methods/markdown/28.toLowerCase.md)
 #### [29.ToUpperCase Method](./string%20methods/markdown/29.toUpperCase.md)
+#### [30.ToLocaleLowerCase Method](./string%20methods/markdown/30.toLocaleLowerCase.md)
+#### [31.ToLocaleLowerCase Method](./string%20methods/markdown/31.toLocaleUpperCase.md)
