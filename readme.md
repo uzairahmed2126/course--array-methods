@@ -143,3 +143,4 @@ const fruits = ['apple', 'banana', 'orange', 'grape'];
 #### [31.toLocaleLowerCase Method](./string%20methods/markdown/31.toLocaleUpperCase.md)
 #### [32.toString Method](./string%20methods/markdown/32.tostring.md)
 #### [33.valueOf Method](./string%20methods/markdown/33.valueOf.md)
+#### [34.raw Method](./string%20methods/markdown/34.raw.md)
