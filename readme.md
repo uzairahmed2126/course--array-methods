@@ -136,4 +136,6 @@ const fruits = ['apple', 'banana', 'orange', 'grape'];
 #### [24.At Method](./string%20methods/markdown/24.fromCharCode.md)
 #### [25.At Method](./string%20methods/markdown/25.fromCodePoint.md)
 #### [26.Includes Method](./string%20methods/markdown/26.includes.md)
-#### [27.Includes Method](./string%20methods/markdown/27.normalize.md)
+#### [27.Normalize Method](./string%20methods/markdown/27.normalize.md)
+#### [28.ToLowerCase Method](./string%20methods/markdown/28.toLowerCase.md)
+#### [29.ToUpperCase Method](./string%20methods/markdown/29.toUpperCase.md)
